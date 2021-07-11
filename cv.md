@@ -20,7 +20,9 @@ It's means freedom.
 * BEM web development methodology
 ### My code ###
 Creating navigation panel `nav` for `projects` block:
-```<div class="projects">
+```
+
+<div class="projects">
 <div class="container">
 <p class="projects__title"><span class="yellow">F</span>eatured Projects</p>
 <ul class="projects__nav">
