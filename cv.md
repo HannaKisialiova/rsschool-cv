@@ -20,8 +20,7 @@ It's means freedom.
 * BEM web development methodology
 ### My code ###
 Creating navigation panel `nav` for `projects` block:
-```
-
+``` 
 <div class="projects">
 <div class="container">
 <p class="projects__title"><span class="yellow">F</span>eatured Projects</p>
@@ -31,6 +30,8 @@ Creating navigation panel `nav` for `projects` block:
 <li class="projects__link-item"><a class="projects__link" href="#">applications</a></li>
 <li class="projects__link-item"><a class="projects__link" href="#">content development</a></li>
 </ul>
+</div>
+</div>
 ```
 I can color the first title letters by more elegant way using `:first-letter` but it's wasn't suitable for this project.
 So, I prefer using `<span>`.
