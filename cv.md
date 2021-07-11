@@ -37,4 +37,4 @@ So, I prefer using `<span>`.
 + stepik.org - Search engine optimization (SEO) basics. Website ranking factors;
 + ITEA online - HTML & CSS masterclass.
 ### English level ###
-My level of English is somewhere _**between B1 Intermediate**_ and _**B2 Upper Intermediate**_ according to the Common European Framework of Reference, also known as the CEFR.
+My level of English is somewhere _**between B1 Intermediate**_ and _**B2 Upper Intermediate**_ according to the Common European Framework of Reference, also known as the [CEFR](https://www.efset.org/).
