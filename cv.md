@@ -27,6 +27,7 @@ I want to be *someone*, mean *something* and *be proud* of myself, and I believe
 * Stepik.org - Fundamentals of Search Engine Optimization (SEO). Site Ranking Factors
 * WayUp - HTML-coder: begining
 * Udemy - Deep dive into JavaScript(in progress..)
+* YouTube channels
 
 ## Code example:
 ```
